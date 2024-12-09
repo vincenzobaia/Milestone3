@@ -77,6 +77,5 @@ public class FileAnalyzer {
             System.out.println(uniqueWords.get(i) + ": " + counts.get(i));
         }
     }
-        // Return uniqueWords.size()
 }
 

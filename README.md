@@ -19,6 +19,7 @@ File Handler. reads txt file, stop words file, and pos and neg words file
 Text Processor, Cleans the given txt article of stop words, punctuation, and analyzes sentiment score
 File Analyzer, Provides statistics of the articles including word count, statements, and words ranked by frequency
 Main Method, Calls upon all aforementioned methods, does it for 3 different txt files![UML Diagram](https://github.com/user-attachments/assets/4019c4df-a0ca-4e83-8813-64edef88c361)
+![Screenshot 2024-12-09 002656](https://github.com/user-attachments/assets/d9d02a32-f650-4d3b-b385-392a21c6188c)
 
 Things Refactored:
 Main
